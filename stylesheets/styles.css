@@ -13,6 +13,7 @@ body {
   padding: 50px 0;
   margin: 0;
   font: 14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif;
   color: #555;
   font-weight: 300;
   background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAeCAYAAABNChwpAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEgAACxIB0t1+/AAAABx0RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNXG14zYAAAAUdEVYdENyZWF0aW9uIFRpbWUAMy82LzEygrTcTAAAAFRJREFUSIljfPDggZRf5RIGGNjUHsNATz6jXmSL1Kb2GLiAX+USBnrymRgGGDCORgFmoNAXjEbBaBSMRsFoFIxGwWgUjEbBaBSMRsFoFIxGwWgUAABYNujumib3wAAAAABJRU5ErkJggg==') fixed;
@@ -65,13 +66,13 @@ header {
   background: -ms-linear-gradient(#ddfbfc, #c6eafa);
   background: linear-gradient(#ddfbfc, #c6eafa);
   position: relative;
-  padding: 15px 20px;
+  padding: 20px 20px 18px;
   border-bottom: 1px solid #B2D2E1;
 }
 header h1 {
   margin: 0;
   padding: 0;
-  font-size: 24px;
+  font-size: 28px;
   line-height: 1.2;
   color: #069;
   text-shadow: rgba(255, 255, 255, 0.9) 0 1px 0;
